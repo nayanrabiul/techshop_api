@@ -22,19 +22,19 @@ node index.js
 ```js
 all the routs are
 
-"[host]/admin Routes
-"[host]/api/admin/order/oneOrderGet"
-"[host]/api/admin/order/order"
-"[host]/api/admin/product/uploadproduct"
-"[host]/api/admin/category"
-"[host]/api/admin/subCategory"
+//admin Routes
+[host]/api/admin/order/oneOrderGet
+[host]/api/admin/order/order
+[host]/api/admin/product/uploadproduct
+[host]/api/admin/category
+[host]/api/admin/subCategory
 
 //auth routes
-"[host]/api/auth/nextauth"
-"[host]/api/auth/signup"
+[host]/api/auth/nextauth"
+[host]/api/auth/signup"
 
 // user Routes
-"[host]/api/user/orderGetbyUserid"
-"[host]/api/user/product/oneProductGet"
-"/api/user/product/productsGet"
+[host]/api/user/orderGetbyUserid"
+[host]/api/user/product/oneProductGet"
+[host]/api/user/product/productsGet"
 ```
